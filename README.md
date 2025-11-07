@@ -4,3 +4,5 @@
 🌱 Learning Cloud, Android, and Web Technologies  
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/shivani-p-r-544985272)  
 💻 [Portfolio Website](https://shivani.github.io/portfolio) (Coming Soon!)
+🌟 Currently learning: Azure Cloud ,python
+🧠 Interested in: Web Development, App Development, and Cloud Computing 
