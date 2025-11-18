@@ -1,4 +1,4 @@
-
+![logo](
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">BE Graduate Seeking Entry-Level Opportunities</h3>
 
