@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaniradha&show_icons=true&locale=en&layout=compact" alt="shivaniradha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivaniradha&show_icons=true&locale=en" alt="shivaniradha" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaniradha&" alt="shivaniradha" /></p>
